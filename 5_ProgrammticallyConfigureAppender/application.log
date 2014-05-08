@@ -1,0 +1,4 @@
+2014-04-24 22:12:24,132 [main] INFO  com.howtodoinjava._ProgrammticallyConfigureAppender.App  - Welcome to www.HowToDoInJava.com
+2014-04-24 22:12:24,135 [main] DEBUG com.howtodoinjava._ProgrammticallyConfigureAppender.App  - Welcome to www.HowToDoInJava.com
+2014-04-24 22:12:24,135 [main] ERROR com.howtodoinjava._ProgrammticallyConfigureAppender.App  - Welcome to www.HowToDoInJava.com
+2014-04-24 22:12:24,135 [main] FATAL com.howtodoinjava._ProgrammticallyConfigureAppender.App  - Welcome to www.HowToDoInJava.com

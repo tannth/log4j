@@ -1,0 +1,1 @@
+java -classpath C:/Users/acquatroi2/.m2/repository/log4j/log4j/1.2.15/log4j-1.2.15.jar org.apache.log4j.net.SimpleSocketServer 4712 log4j-server.properties
